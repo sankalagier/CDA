@@ -1,0 +1,25 @@
+
+@layer reset {
+    button {
+        all: unset;
+    }
+}
+
+.dropdown-toggle::after {
+    content: none;
+}
+
+body{
+    background-color: #f1f1f1;
+}
+
+.container{
+    background-color: white;
+}
+
+.img-responsive {
+    height: auto;
+    width: auto;
+    max-height: 64px;
+    max-width: 250px;
+}
