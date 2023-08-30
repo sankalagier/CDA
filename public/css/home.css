@@ -1,0 +1,38 @@
+
+@layer reset {
+    button {
+        all: unset;
+    }
+}
+
+.dropdown-toggle::after {
+    content: none;
+}
+
+body{
+    background-color: #198754;
+}
+
+.container{
+    background-color: rgb(255, 255, 255);
+}
+
+.textarea{
+    resize: none;
+}
+
+.img-responsive {
+    height: auto;
+    width: auto;
+    max-height: 72px;
+    max-width: 250px;
+}
+
+
+
+footer{
+    background-color: white;
+}
+.btn-outline-success:hover{
+    color: white!important;
+}

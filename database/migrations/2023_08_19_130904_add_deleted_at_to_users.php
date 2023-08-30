@@ -26,3 +26,7 @@ return new class extends Migration
         });
     }
 };
+
+
+//                  MySQL query :
+// ⇂ alter table `users` add `deleted_at` timestamp null
