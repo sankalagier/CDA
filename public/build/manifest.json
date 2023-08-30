@@ -1,0 +1,36 @@
+{
+  "public/vendor/larasort/css/larasort.css": {
+    "file": "assets/larasort-e586fa40.css",
+    "isEntry": true,
+    "src": "public/vendor/larasort/css/larasort.css"
+  },
+  "public/vendor/larasort/images/chevron-down.svg": {
+    "file": "assets/chevron-down-ad4af664.svg",
+    "src": "public/vendor/larasort/images/chevron-down.svg"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-e763bb5c.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/css/home.css": {
+    "file": "assets/home-155fb74b.css",
+    "isEntry": true,
+    "src": "resources/css/home.css"
+  },
+  "resources/css/sidebar.css": {
+    "file": "assets/sidebar-d0fdaf8b.css",
+    "isEntry": true,
+    "src": "resources/css/sidebar.css"
+  },
+  "resources/css/student.css": {
+    "file": "assets/student-73f31c94.css",
+    "isEntry": true,
+    "src": "resources/css/student.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-4a08c204.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
